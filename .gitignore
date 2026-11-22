@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pt
+*.pth
+*.zip
+.ipynb_checkpoints/
+sigma_paper/
+sigma_*/
